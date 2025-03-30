@@ -1,6 +1,16 @@
 {
   "name": "sitkicoban.com",
+  "description": "Sitki Coban's personal website",
   "version": "0.1.0",
+  "license": "MIT",
+  "type": "module",
+  "contributors": [
+    {
+      "name": "Mustafa Genc",
+      "email": "eposta@mustafagenc.info",
+      "url": "https://mustafagenc.info"
+    }
+  ],
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
